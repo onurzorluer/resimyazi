@@ -1,0 +1,6 @@
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\resimyazi\resimyazi\bin\Debug\resimyazi.exe.config
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\resimyazi\resimyazi\bin\Debug\resimyazi.exe
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\resimyazi\resimyazi\bin\Debug\resimyazi.pdb
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\resimyazi\resimyazi\obj\Debug\resimyazi.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\resimyazi\resimyazi\obj\Debug\resimyazi.exe
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\resimyazi\resimyazi\obj\Debug\resimyazi.pdb
