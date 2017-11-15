@@ -1,2 +1,2 @@
 # resimyazi
-Herhangi bir resim üzerine başka bir resim ve yazı eklemeye yarayan C# projesi.
+Herhangi bir resim üzerine başka bir resim ve/veya yazı ekleyebilmemizi sağlayan C# projesi.
